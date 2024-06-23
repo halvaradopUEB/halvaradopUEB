@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋, I'm Hernan Alvarado
+Welcome to my university GitHub profile! This account is dedicated to my academic journey at Univesidad El Bosque. This profile serves as a digital archive of my educational endeavors and a testament to my growth as a software engineer.
+
+## Socieal Media 🌐
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernanvid123@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/halvaradop_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halvaradop@unbosque.edu.co)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halvaradop)
 
 <!--
 **halvaradopUEB/halvaradopUEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
